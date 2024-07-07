@@ -1,7 +1,8 @@
 # Univariate-GMM
 R package of univariate-type Gaussian Mixture Models
 
-This is my semester final project of STAT533000 Statistical Computing course at Inst. of Statistics, NTHU. 
+This is my semester final project of STAT533000 Statistical Computing course at Inst. of Statistics, NTHU.  
+If you want to use this package, you can directly install **emGMM_3.6.2.tar.gz** and load it into R.
 
 ## R fold.
   This fold stores related R programs that implement GMM. Please click on this file to view how to implement it.
